@@ -6047,6 +6047,19 @@ var rules = [
         ]
     ]
 ];
+const extraRules = [
+   [
+        [],
+        []
+   ],
+   [
+        ['zhihu.com'],
+        ['anthropic.com', 'claude.ai']
+   ]
+];
+
+rules = rules[1][0].push(extraRules[1][0]);
+rules = rules[1][1].push(extraRules[1][1]);
 
 var lastRule = '';
 
@@ -6063,6 +6076,7 @@ function testHost(host, index) {
     for (var i = 0; i < rules[index].length; i++) {
         for (var j = 0; j < rules[index][i].length; j++) {
             lastRule = rules[index][i][j];
+            // 数组第0项是白名单，第一项是走代理
             if (host == lastRule || host.endsWith('.' + lastRule))
                 return i % 2 == 0 ? 'DIRECT' : proxy;
         }
