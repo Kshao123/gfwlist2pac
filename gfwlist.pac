@@ -6058,8 +6058,8 @@ const extraRules = [
    ]
 ];
 
-rules = rules[1][0].push(extraRules[1][0]);
-rules = rules[1][1].push(extraRules[1][1]);
+rules[1][0].push(extraRules[1][0]);
+rules[1][1].push(extraRules[1][1]);
 
 var lastRule = '';
 
