@@ -1,4 +1,5 @@
-var proxy = 'SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;';
+var Default_Proxy = '127.0.0.1:7890';
+var proxy = `SOCKS5 ${Default_Proxy}; SOCKS ${Default_Proxy}; HTTP ${Default_Proxy}; HTTPS ${Default_Proxy}; DIRECT;`;
 var rules = [
     [
         [],
