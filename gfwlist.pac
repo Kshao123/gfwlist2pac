@@ -6054,8 +6054,10 @@ const extraRules = [
         []
    ],
    [
+        // white
         ['zhihu.com'],
-        ['anthropic.com', 'claude.ai']
+        // proxy
+        ['anthropic.com', 'claude.ai', 'x.com']
    ]
 ];
 
