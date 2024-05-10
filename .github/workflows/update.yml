@@ -31,10 +31,8 @@ jobs:
       - run: |
           cd genpac
           sudo python3 setup.py install
-
       - name: Update
         run: |
-#         调试模式
           set -x
           ls -la
           cat ../user-rules.txt
