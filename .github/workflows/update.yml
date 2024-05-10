@@ -46,3 +46,6 @@ jobs:
 
       - name: commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
+
+      - name: down
+        run: echo "update down"
