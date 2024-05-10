@@ -40,7 +40,7 @@ jobs:
 #        --pac-proxy pac 的代理地址；--gfwlist-url 为 - 时不从线上获取规则；
         run: |
           set -x
-          genpac --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;" --gfwlist-url - --gfwlist-local demo/gfwlist.txt -o demo/gfwlist.pac --user-rule-from user-rules.txt
+          genpac --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;" --gfwlist-url - --gfwlist-local genpac/gfwlist.txt -o gfwlist.pac --user-rule-from user-rules.txt
 #         删除1-7行 -i 在当前文件执行
 #         sed '1,7d' -i gfwlist.pac
 
