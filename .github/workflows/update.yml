@@ -46,6 +46,8 @@ jobs:
 
       - name: commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[$(LANG=C date)] auto update"
 
       - name: down
         run: echo "update down"
