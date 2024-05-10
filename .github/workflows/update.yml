@@ -14,39 +14,38 @@ jobs:
         run: |
           sudo apt-get install openssh-client python3-setuptools
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          repository: JinnLynn/genpac
+          repository: Kshao123/genpac
           path: genpac
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: gfwlist/gfwlist
           path: gfwlist
 
-      - uses: petronny/git-config-user@master
-        with:
-          path: .
-
       - run: |
           cd genpac
-          sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
           sudo python3 setup.py install
 
       - name: Update
         run: |
+#         调试模式
           set -x
+          ls -la
+          cat ../user-rules.txt
+#         --pac-proxy pac 的代理地址；--gfwlist-url 为 - 时不从线上获取规则；
+#          genpac --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;" --gfwlist-url - --gfwlist-local demo/gfwlist.txt -o demo/gfwlist.pac --user-rule-from demo/user-rules.txt
+#         删除1-7行 -i 在当前文件执行
+#          sed '1,7d' -i gfwlist.pac
 
-          genpac --pac-proxy "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt -o gfwlist.pac
-          sed '1,7d' -i gfwlist.pac
+#          git add gfwlist.pac
+#          git commit -m "[$(LANG=C date)] auto update" || exit 0
 
-          git add gfwlist.pac
-          git commit -m "[$(LANG=C date)] auto update" || exit 0
+#          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
 
-          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
-
-          git push origin master
+#          git push origin master
