@@ -1,6 +1,9 @@
 name: Auto update
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '37 19 * * *'
   workflow_dispatch:
