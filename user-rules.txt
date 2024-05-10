@@ -1,0 +1,14 @@
+!white list
+
+@@||zhihu.com
+@@||taobao.com
+
+!proxy list
+
+||anthropic.com
+||claude.ai
+||x.com
+||www2.gardenparty.me
+||immersivetranslate.com
+||laobideng.xyz
+||chatgpt.com
