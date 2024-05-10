@@ -34,19 +34,17 @@ jobs:
       - run: |
           cd genpac
           sudo python3 setup.py install
-      - name: Update
+      - name: Update GfwList
+        id: updateList
+#        set -x 开启详细输出日志模式
+#        --pac-proxy pac 的代理地址；--gfwlist-url 为 - 时不从线上获取规则；
         run: |
           set -x
-          ls -la
           cat ../user-rules.txt
-#         --pac-proxy pac 的代理地址；--gfwlist-url 为 - 时不从线上获取规则；
-#          genpac --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;" --gfwlist-url - --gfwlist-local demo/gfwlist.txt -o demo/gfwlist.pac --user-rule-from demo/user-rules.txt
+          genpac --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;" --gfwlist-url - --gfwlist-local demo/gfwlist.txt -o demo/gfwlist.pac --user-rule-from user-rules.txt
 #         删除1-7行 -i 在当前文件执行
-#          sed '1,7d' -i gfwlist.pac
+#         sed '1,7d' -i gfwlist.pac
 
-#          git add gfwlist.pac
-#          git commit -m "[$(LANG=C date)] auto update" || exit 0
-
-#          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
-
-#          git push origin master
+      - name: commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        needs: updateList
