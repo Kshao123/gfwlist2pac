@@ -1,9 +1,26 @@
-var Default_Proxy = '127.0.0.1:7890';
-var proxy = `SOCKS5 ${Default_Proxy}; SOCKS ${Default_Proxy}; HTTP ${Default_Proxy}; HTTPS ${Default_Proxy}; DIRECT;`;
+/**
+ * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
+ * Generated: 2024-05-10 07:41:42
+ * GFWList Last-Modified: 2024-04-18 15:17:15
+ * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
+ */
+
+var proxy = 'SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;';
 var rules = [
     [
-        [],
-        []
+        [
+            "taobao.com",
+            "zhihu.com"
+        ],
+        [
+            "anthropic.com",
+            "chatgpt.com",
+            "claude.ai",
+            "gardenparty.me",
+            "immersivetranslate.com",
+            "laobideng.xyz",
+            "x.com"
+        ]
     ],
     [
         [
@@ -6055,21 +6072,6 @@ var rules = [
         ]
     ]
 ];
-const extraRules = [
-   [
-        [],
-        []
-   ],
-   [
-        // white
-        ['zhihu.com', 'taobao.com'],
-        // proxy
-        ['anthropic.com', 'claude.ai', 'x.com', 'www2.gardenparty.me', 'immersivetranslate.com', 'laobideng.xyz']
-   ]
-];
-
-rules[1][0].push(...extraRules[1][0]);
-rules[1][1].push(...extraRules[1][1]);
 
 var lastRule = '';
 
@@ -6082,11 +6084,11 @@ function FindProxyForURL(url, host) {
     return 'DIRECT';
 }
 
+// rules 数组第 0 项为白名单，第一项为 Proxy
 function testHost(host, index) {
     for (var i = 0; i < rules[index].length; i++) {
         for (var j = 0; j < rules[index][i].length; j++) {
             lastRule = rules[index][i][j];
-            // 数组第0项是白名单，第一项是走代理
             if (host == lastRule || host.endsWith('.' + lastRule))
                 return i % 2 == 0 ? 'DIRECT' : proxy;
         }
