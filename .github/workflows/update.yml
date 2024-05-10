@@ -47,7 +47,7 @@ jobs:
       - name: commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: “[${{ now() }}] auto update”
+          commit_message: "Auto update - ${{ format(github.run_id, 'dddd, MMMM Do YYYY, h:mm:ss A') }}"
 
       - name: down
         run: echo "update down"
