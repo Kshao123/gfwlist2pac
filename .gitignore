@@ -1,3 +1,5 @@
 env/
 *.sw*
 .idea
+genpac
+gfwlist
