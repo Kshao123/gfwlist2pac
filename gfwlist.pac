@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-05-12 19:39:02
- * GFWList Last-Modified: 2024-04-18 15:17:15
+ * Generated: 2024-05-13 19:39:06
+ * GFWList Last-Modified: 2024-05-13 03:19:25
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -917,6 +917,7 @@ var rules = [
             "channelnewsasia.com",
             "chaoex.com",
             "chapm25.com",
+            "chatgpt.com",
             "chatnook.com",
             "chaturbate.com",
             "checkgfw.com",
