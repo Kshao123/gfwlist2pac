@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-05-29 19:38:57
- * GFWList Last-Modified: 2024-05-13 03:19:25
+ * Generated: 2024-05-30 19:38:59
+ * GFWList Last-Modified: 2024-05-30 05:40:24
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5800,6 +5800,7 @@ var rules = [
             "x-berry.com",
             "x-wall.org",
             "x.co",
+            "x.com",
             "x.company",
             "x1949x.com",
             "x24hr.com",
