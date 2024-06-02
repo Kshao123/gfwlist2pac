@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-06-01 19:39:01
- * GFWList Last-Modified: 2024-06-01 15:27:48
+ * Generated: 2024-06-02 19:38:53
+ * GFWList Last-Modified: 2024-06-02 15:11:56
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4038,6 +4038,7 @@ var rules = [
             "piposay.com",
             "piraattilahti.org",
             "piring.com",
+            "pixeldrain.com",
             "pixelqi.com",
             "pixiv.net",
             "pixnet.in",
@@ -5935,7 +5936,6 @@ var rules = [
             "yingsuoss.com",
             "yinlei.org",
             "yipub.com",
-            "yiyechat.com",
             "yizhihongxing.com",
             "yobit.net",
             "yobt.com",
@@ -5984,13 +5984,13 @@ var rules = [
             "yuanzhengtang.org",
             "yulghun.com",
             "yunchao.net",
-            "yuntipub.com",
             "yuvutu.com",
             "yvesgeleyn.com",
             "ywpw.com",
             "yx51.net",
             "yyii.org",
             "yyjlymb.xyz",
+            "yysub.net",
             "yzzk.com",
             "z-lib.org",
             "zacebook.com",
