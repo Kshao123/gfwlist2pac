@@ -53,6 +53,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: ${{ env.COMMIT_MESSAGE }}
+          commit_user_name: Kshao123
+          commit_user_email: kshao123@users.noreply.github.com
 
       - name: down
         run: echo "update down"
