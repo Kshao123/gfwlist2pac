@@ -14,3 +14,4 @@
 ||chatgpt.com
 ||openai.com
 ||cloudflare.com
+||npmjs.com
