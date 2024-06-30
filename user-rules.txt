@@ -15,3 +15,4 @@
 ||openai.com
 ||cloudflare.com
 ||npmjs.com
+||codesandbox.io
