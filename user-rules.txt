@@ -16,3 +16,4 @@
 ||cloudflare.com
 ||npmjs.com
 ||codesandbox.io
+||cdn.staticfile.net
