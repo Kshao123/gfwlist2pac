@@ -2,6 +2,7 @@
 
 @@||zhihu.com
 @@||taobao.com
+@@||juejin.cn
 
 !proxy list
 
