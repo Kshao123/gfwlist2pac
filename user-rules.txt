@@ -18,3 +18,4 @@
 ||npmjs.com
 ||codesandbox.io
 ||cdn.staticfile.net
+||*.csb.app
