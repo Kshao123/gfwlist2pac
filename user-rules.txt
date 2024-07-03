@@ -19,3 +19,4 @@
 ||codesandbox.io
 ||cdn.staticfile.net
 ||*.csb.app
+||unpkg.com
