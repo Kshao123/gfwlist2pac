@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-07-02 19:39:52
+ * Generated: 2024-07-03 07:50:37
  * GFWList Last-Modified: 2024-06-07 03:48:34
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -26,6 +26,7 @@ var rules = [
             "npmjs.com",
             "openai.com",
             "staticfile.net",
+            "unpkg.com",
             "x.com"
         ]
     ],
