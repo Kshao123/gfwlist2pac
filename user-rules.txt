@@ -20,3 +20,4 @@
 ||cdn.staticfile.net
 ||*.csb.app
 ||unpkg.com
+||chatboxai.app
