@@ -21,3 +21,4 @@
 ||*.csb.app
 ||unpkg.com
 ||chatboxai.app
+||stackblitz.com
