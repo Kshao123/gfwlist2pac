@@ -22,3 +22,4 @@
 ||unpkg.com
 ||chatboxai.app
 ||stackblitz.com
+||lobehub.com
