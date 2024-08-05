@@ -24,3 +24,4 @@
 ||chatboxai.app
 ||stackblitz.com
 ||lobehub.com
+||gptnb.ai
