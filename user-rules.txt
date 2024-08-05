@@ -3,6 +3,7 @@
 @@||zhihu.com
 @@||taobao.com
 @@||juejin.cn
+@@||gptnb.me
 
 !proxy list
 
