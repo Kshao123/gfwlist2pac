@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-09-01 19:39:30
- * GFWList Last-Modified: 2024-08-14 19:07:05
+ * Generated: 2024-09-02 19:40:06
+ * GFWList Last-Modified: 2024-09-02 15:03:48
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -804,6 +804,7 @@ var rules = [
             "buzzhand.com",
             "buzzhand.net",
             "buzzorange.com",
+            "buzzsprout.com",
             "bvpn.com",
             "bwbx.io",
             "bwgyhw.com",
@@ -2883,6 +2884,7 @@ var rules = [
             "iuksky.com",
             "ivacy.com",
             "iverycd.com",
+            "ivonblog.com",
             "ivpn.net",
             "iwara.tv",
             "ixquick.com",
@@ -2899,6 +2901,7 @@ var rules = [
             "jamaat.org",
             "jamestown.org",
             "jamyangnorbu.com",
+            "jan.ai",
             "jandyx.com",
             "janwongphoto.com",
             "japan-whores.com",
@@ -4006,8 +4009,6 @@ var rules = [
             "pen.io",
             "penchinese.com",
             "penchinese.net",
-            "pengyulong.com",
-            "penisbot.com",
             "pentalogic.net",
             "penthouse.com",
             "pentoy.hk",
@@ -4024,7 +4025,6 @@ var rules = [
             "phapluan.org",
             "phayul.com",
             "philborges.com",
-            "philly.com",
             "phmsociety.org",
             "phncdn.com",
             "phonegap.com",
@@ -4169,7 +4169,6 @@ var rules = [
             "provpnaccounts.com",
             "proxfree.com",
             "proxifier.com",
-            "proxlet.com",
             "proxomitron.info",
             "proxpn.com",
             "proxyanonimo.es",
@@ -4236,7 +4235,6 @@ var rules = [
             "qkshare.com",
             "qmzdd.com",
             "qoos.com",
-            "qooza.hk",
             "qpoe.com",
             "qq.co.za",
             "qstatus.com",
@@ -4278,13 +4276,11 @@ var rules = [
             "raizoji.or.jp",
             "ramcity.com.au",
             "rangwang.biz",
-            "rangzen.com",
             "rangzen.net",
             "rangzen.org",
             "ranxiang.com",
             "ranyunfei.com",
             "rapbull.net",
-            "rapidgator.net",
             "rapidmoviez.com",
             "rapidvpn.com",
             "rarbgprx.org",
@@ -5125,6 +5121,7 @@ var rules = [
             "ticket.com.tw",
             "tigervpn.com",
             "tiktok.com",
+            "tiktokv.com",
             "tiltbrush.com",
             "timdir.com",
             "time.com",
