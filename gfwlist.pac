@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-10-06 19:39:09
- * GFWList Last-Modified: 2024-09-17 15:45:49
+ * Generated: 2024-10-07 19:39:13
+ * GFWList Last-Modified: 2024-10-07 15:39:43
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1635,6 +1635,7 @@ var rules = [
             "fa.gov.tw",
             "facebook.br",
             "facebook.com",
+            "facebook.de",
             "facebook.design",
             "facebook.hu",
             "facebook.in",
@@ -3373,6 +3374,7 @@ var rules = [
             "meshrep.com",
             "mesotw.com",
             "messenger.com",
+            "meta.com",
             "metacafe.com",
             "metafilter.com",
             "metart.com",
@@ -5182,6 +5184,7 @@ var rules = [
             "torrentproject.se",
             "torrenty.org",
             "torrentz.eu",
+            "tortoisesvn.net",
             "torvpn.com",
             "totalvpn.com",
             "toutiaoabc.com",
