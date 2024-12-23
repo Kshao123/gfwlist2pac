@@ -25,3 +25,4 @@
 ||stackblitz.com
 ||lobehub.com
 ||gptnb.ai
+||clerk.chat.ksh7.com
