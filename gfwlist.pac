@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2024-12-24 02:25:19
+ * Generated: 2024-12-24 06:38:53
  * GFWList Last-Modified: 2024-10-07 15:39:43
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -20,6 +20,7 @@ var rules = [
             "chatgpt.com",
             "claude.ai",
             "cloudflare.com",
+            "cloudflarestorage.com",
             "codesandbox.io",
             "csb.app",
             "gardenparty.me",
