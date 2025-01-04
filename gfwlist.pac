@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-01-03 19:39:08
- * GFWList Last-Modified: 2024-12-31 14:47:01
+ * Generated: 2025-01-04 19:39:00
+ * GFWList Last-Modified: 2025-01-04 16:07:40
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1098,6 +1098,7 @@ var rules = [
             "cn6.eu",
             "cna.com.tw",
             "cnabc.com",
+            "cnbeta.com.tw",
             "cnd.org",
             "cnet.com",
             "cnex.org.cn",
