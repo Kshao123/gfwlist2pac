@@ -31,3 +31,5 @@
 ||clerk.chat.ksh7.com
 ||account.chat.ksh7.com
 ||cloudflarestorage.com
+||nodeseek.com
+||registry.npmmirror.com
