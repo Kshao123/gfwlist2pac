@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-01-08 19:38:57
+ * Generated: 2025-01-09 03:01:18
  * GFWList Last-Modified: 2025-01-04 16:07:40
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -29,7 +29,9 @@ var rules = [
             "ksh7.com",
             "laobideng.xyz",
             "lobehub.com",
+            "nodeseek.com",
             "npmjs.com",
+            "npmmirror.com",
             "openai.com",
             "stackblitz.com",
             "staticfile.net",
