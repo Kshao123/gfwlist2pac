@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-01-24 19:39:02
- * GFWList Last-Modified: 2025-01-24 16:48:36
+ * Generated: 2025-01-25 19:39:09
+ * GFWList Last-Modified: 2025-01-25 16:16:19
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -799,6 +799,7 @@ var rules = [
             "btctrade.im",
             "btdig.com",
             "btdigg.org",
+            "btguard.com",
             "btku.me",
             "btku.org",
             "btspread.com",
@@ -1382,6 +1383,7 @@ var rules = [
             "dlsite.jp",
             "dlyoutube.com",
             "dm530.net",
+            "dma.mil",
             "dmc.nico",
             "dmcdn.net",
             "dmhy.org",
@@ -2387,6 +2389,7 @@ var rules = [
             "googlepagecreator.com",
             "googleplay.com",
             "googleplus.com",
+            "googlescholar.com",
             "googlesile.com",
             "googlesource.com",
             "googleusercontent.com",
@@ -5461,6 +5464,7 @@ var rules = [
             "typora.io",
             "u15.info",
             "u9un.com",
+            "ua5v.com",
             "ub0.cc",
             "ubddns.org",
             "uberproxy.net",
@@ -5486,6 +5490,8 @@ var rules = [
             "uku.im",
             "ulike.net",
             "ulop.net",
+            "ultrasurf.us",
+            "ultravpn.com",
             "ultravpn.fr",
             "ultraxs.com",
             "umich.edu",
@@ -5538,6 +5544,7 @@ var rules = [
             "usacn.com",
             "usaip.eu",
             "uscardforum.com",
+            "uscg.mil",
             "uscnpm.org",
             "usembassy.gov",
             "usercontent.goog",
@@ -5684,6 +5691,7 @@ var rules = [
             "vpnpick.com",
             "vpnpop.com",
             "vpnpronet.com",
+            "vpnproxymaster.com",
             "vpnreactor.com",
             "vpnreviewz.com",
             "vpnsecure.me",
@@ -5825,6 +5833,8 @@ var rules = [
             "widevine.com",
             "wikaba.com",
             "wikia.com",
+            "wikibooks.org",
+            "wikidata.org",
             "wikileaks-forum.com",
             "wikileaks.ch",
             "wikileaks.com",
@@ -5840,8 +5850,11 @@ var rules = [
             "wikipedia.org",
             "wikiquote.org",
             "wikisource.org",
+            "wikiversity.org",
+            "wikivoyage.org",
             "wikiwand.com",
             "wikiwiki.jp",
+            "wiktionary.org",
             "wildammo.com",
             "williamhill.com",
             "willw.net",
@@ -5866,6 +5879,7 @@ var rules = [
             "wizcrafts.net",
             "wjbk.org",
             "wmflabs.org",
+            "wmfusercontent.org",
             "wn.com",
             "wnacg.com",
             "wnacg.org",
@@ -6034,6 +6048,7 @@ var rules = [
             "yanghengjun.com",
             "yangjianli.com",
             "yasni.co.uk",
+            "yasukuni.or.jp",
             "yayabay.com",
             "ycombinator.com",
             "ydy.com",
@@ -6108,6 +6123,7 @@ var rules = [
             "yuanzhengtang.org",
             "yulghun.com",
             "yunchao.net",
+            "yunomi.tokyo",
             "yuvutu.com",
             "yvesgeleyn.com",
             "ywpw.com",
