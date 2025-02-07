@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-02-06 19:38:55
- * GFWList Last-Modified: 2025-01-25 16:16:19
+ * Generated: 2025-02-07 19:38:44
+ * GFWList Last-Modified: 2025-02-07 04:07:23
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -906,6 +906,7 @@ var rules = [
             "cccat.cc",
             "cccat.co",
             "ccdtr.org",
+            "ccfd.org.tw",
             "cchere.com",
             "ccim.org",
             "cclife.ca",
@@ -2123,7 +2124,6 @@ var rules = [
             "go141.com",
             "goagent.biz",
             "goagentplus.com",
-            "gobet.cc",
             "godaddy.com",
             "godfootsteps.org",
             "godns.work",
@@ -2416,6 +2416,7 @@ var rules = [
             "graphis.ne.jp",
             "graphql.org",
             "gravatar.com",
+            "greasyfork.org",
             "great-firewall.com",
             "great-roc.org",
             "greatfire.org",
@@ -2871,6 +2872,7 @@ var rules = [
             "iownyour.biz",
             "iownyour.org",
             "ipalter.com",
+            "ipdefenseforum.com",
             "ipfire.org",
             "ipfs.io",
             "iphone4hongkong.com",
@@ -3794,6 +3796,7 @@ var rules = [
             "nobel.se",
             "nobelprize.org",
             "nobodycanstop.us",
+            "nodeseek.com",
             "nodesnoop.com",
             "nofile.io",
             "nokogiri.org",
@@ -3818,7 +3821,6 @@ var rules = [
             "npa.gov.tw",
             "npm.gov.tw",
             "npnt.me",
-            "nps.gov",
             "npsboost.com",
             "nradio.me",
             "nrk.no",
@@ -4010,6 +4012,7 @@ var rules = [
             "pachosting.com",
             "pacificpoker.com",
             "packetix.net",
+            "pacom.mil",
             "pacopacomama.com",
             "padmanet.com",
             "page.link",
@@ -4843,7 +4846,6 @@ var rules = [
             "startpage.com",
             "startuplivingchina.com",
             "stat.gov.tw",
-            "state.gov",
             "static-economist.com",
             "staticflickr.com",
             "statueofdemocracy.org",
