@@ -1,11 +1,11 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-02-21 02:29:30
+ * Generated: 2025-02-21 12:57:06
  * GFWList Last-Modified: 2025-02-18 06:24:21
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
-var proxy = 'SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;';
+var proxy = 'SOCKS5 127.0.0.1:7890; SOCKS5 127.0.0.1:7890; DIRECT;';
 var rules = [
     [
         [
