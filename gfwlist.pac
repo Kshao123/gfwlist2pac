@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-02-20 19:39:00
+ * Generated: 2025-02-21 02:29:30
  * GFWList Last-Modified: 2025-02-18 06:24:21
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -25,6 +25,7 @@ var rules = [
             "csb.app",
             "gardenparty.me",
             "gptnb.ai",
+            "grok.com",
             "immersivetranslate.com",
             "laobideng.xyz",
             "lobehub.com",
@@ -35,6 +36,7 @@ var rules = [
             "stackblitz.com",
             "staticfile.net",
             "unpkg.com",
+            "x.ai",
             "x.com"
         ]
     ],
