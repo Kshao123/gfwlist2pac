@@ -33,3 +33,5 @@
 ||cloudflarestorage.com
 ||nodeseek.com
 ||registry.npmmirror.com
+||grok.com
+||x.ai
