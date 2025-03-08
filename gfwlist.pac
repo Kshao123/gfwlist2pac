@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-03-07 19:39:16
- * GFWList Last-Modified: 2025-03-07 10:20:58
+ * Generated: 2025-03-08 19:38:58
+ * GFWList Last-Modified: 2025-03-08 03:02:43
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3702,6 +3702,7 @@ var rules = [
             "mummysgold.com",
             "murmur.tw",
             "musicade.net",
+            "musixmatch.com",
             "muslimvideo.com",
             "muzi.com",
             "muzi.net",
@@ -5617,6 +5618,7 @@ var rules = [
             "twitvid.com",
             "twitzap.com",
             "twiyia.com",
+            "twkan.com",
             "twnorth.org.tw",
             "twreporter.org",
             "twskype.com",
