@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-03-13 19:39:27
- * GFWList Last-Modified: 2025-03-13 11:15:09
+ * Generated: 2025-03-14 19:40:03
+ * GFWList Last-Modified: 2025-03-14 09:50:30
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1807,7 +1807,6 @@ var rules = [
             "fartit.com",
             "farwestchina.com",
             "fastestvpn.com",
-            "fastgpt.run",
             "fastly.net",
             "fastpic.ru",
             "fastssh.com",
