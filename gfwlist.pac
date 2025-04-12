@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-04-11 19:39:37
- * GFWList Last-Modified: 2025-04-04 02:23:48
+ * Generated: 2025-04-12 19:39:16
+ * GFWList Last-Modified: 2025-04-12 07:50:02
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -533,6 +533,7 @@ var rules = [
             "atlaspost.com",
             "atnext.com",
             "audacy.com",
+            "audiomack.com",
             "audionow.com",
             "authorizeddns.net",
             "authorizeddns.org",
@@ -1148,7 +1149,6 @@ var rules = [
             "cloakpoint.com",
             "cloudcone.com",
             "cloudflare-ipfs.com",
-            "cloudfront.net",
             "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
