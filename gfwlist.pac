@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-05-09 19:39:51
- * GFWList Last-Modified: 2025-05-04 02:29:11
+ * Generated: 2025-05-10 19:39:24
+ * GFWList Last-Modified: 2025-05-10 11:14:27
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -132,6 +132,7 @@ var rules = [
             "10beasts.net",
             "10conditionsoflove.com",
             "10musume.com",
+            "111666.best",
             "123rf.com",
             "12bet.com",
             "12vpn.com",
@@ -161,6 +162,7 @@ var rules = [
             "1dumb.com",
             "1e100.net",
             "1eew.com",
+            "1lib.sk",
             "1mobile.com",
             "1mobile.tw",
             "1point3acres.com",
@@ -322,7 +324,6 @@ var rules = [
             "agro.hk",
             "ai-kan.net",
             "ai-wen.net",
-            "ai.google",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
@@ -1459,6 +1460,7 @@ var rules = [
             "dnvod.tv",
             "doc.new",
             "docker.com",
+            "docker.io",
             "docs.new",
             "doctorvoice.org",
             "documentingreality.com",
@@ -2197,6 +2199,7 @@ var rules = [
             "gmiddle.net",
             "gmll.org",
             "gmodules.com",
+            "gmp4.com",
             "gmx.net",
             "gnci.org.hk",
             "gnews.org",
@@ -4071,6 +4074,7 @@ var rules = [
             "on.cc",
             "on2.com",
             "onapp.com",
+            "one.one",
             "onedrive.com",
             "onedumb.com",
             "onejav.com",
@@ -4283,6 +4287,7 @@ var rules = [
             "pkuanvil.com",
             "placemix.com",
             "play-asia.com",
+            "play.google",
             "playboy.com",
             "playboyplus.com",
             "player.fm",
@@ -4424,6 +4429,7 @@ var rules = [
             "pure18.com",
             "pureapk.com",
             "pureconcepts.net",
+            "puredns.org",
             "pureinsight.org",
             "purepdf.com",
             "purevpn.com",
@@ -4458,6 +4464,7 @@ var rules = [
             "qiwen.lu",
             "qixianglu.cn",
             "qkshare.com",
+            "qmp4.com",
             "qmzdd.com",
             "qoos.com",
             "qpoe.com",
@@ -4627,6 +4634,7 @@ var rules = [
             "ruanyifeng.com",
             "rukor.org",
             "rule34.xxx",
+            "rule34video.com",
             "rumble.com",
             "runbtx.com",
             "rushbee.com",
@@ -5431,6 +5439,7 @@ var rules = [
             "tngrnow.com",
             "tngrnow.net",
             "tnp.org",
+            "tnt-ea.com",
             "to-porno.com",
             "togetter.com",
             "toh.info",
@@ -6347,8 +6356,13 @@ var rules = [
             "yyjlymb.xyz",
             "yysub.net",
             "yzzk.com",
+            "z-lib.fm",
+            "z-lib.fo",
+            "z-lib.gd",
+            "z-lib.gl",
             "z-lib.io",
             "z-lib.org",
+            "z-library.sk",
             "zacebook.com",
             "zalmos.com",
             "zamimg.com",
