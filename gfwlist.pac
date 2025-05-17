@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-05-16 19:40:10
- * GFWList Last-Modified: 2025-05-12 10:04:00
+ * Generated: 2025-05-17 19:39:30
+ * GFWList Last-Modified: 2025-05-17 13:05:21
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3294,6 +3294,8 @@ var rules = [
             "lausan.hk",
             "law.com",
             "lbank.info",
+            "ldplayer.net",
+            "ldplayer.tw",
             "le-vpn.com",
             "leafyvpn.net",
             "lecloud.net",
@@ -3791,6 +3793,7 @@ var rules = [
             "naacoalition.org",
             "nabble.com",
             "naitik.net",
+            "naixi.net",
             "nakido.com",
             "nakuz.com",
             "nalandabodhi.org",
@@ -4667,6 +4670,7 @@ var rules = [
             "safeguarddefenders.com",
             "safervpn.com",
             "safety.google",
+            "sagernet.org",
             "saintyculture.com",
             "saiq.me",
             "sakuralive.com",
@@ -5413,6 +5417,7 @@ var rules = [
             "ticket.com.tw",
             "tigervpn.com",
             "tiktok.com",
+            "tiktokcdn-eu.com",
             "tiktokcdn-us.com",
             "tiktokcdn.com",
             "tiktokv.com",
