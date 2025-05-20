@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-05-19 19:40:24
- * GFWList Last-Modified: 2025-05-17 13:05:21
+ * Generated: 2025-05-20 19:40:10
+ * GFWList Last-Modified: 2025-05-20 11:14:44
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -388,6 +388,7 @@ var rules = [
             "amazon.co.jp",
             "amazon.com",
             "amazonaws.com",
+            "amazonvideo.com",
             "ameblo.jp",
             "america.gov",
             "american.edu",
@@ -4385,6 +4386,7 @@ var rules = [
             "presidentlee.tw",
             "prestige-av.com",
             "pride.google",
+            "primevideo.com",
             "printfriendly.com",
             "prism-break.org",
             "prisoneralert.com",
