@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-06-05 19:38:51
- * GFWList Last-Modified: 2025-06-05 13:19:31
+ * Generated: 2025-06-06 19:40:17
+ * GFWList Last-Modified: 2025-06-06 11:15:55
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -253,6 +253,7 @@ var rules = [
             "8z1.net",
             "9001700.com",
             "908taiwan.org",
+            "91dasai.com",
             "91porn.com",
             "91porny.com",
             "91vps.club",
