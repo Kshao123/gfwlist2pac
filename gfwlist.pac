@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-06-11 19:40:35
- * GFWList Last-Modified: 2025-06-11 09:28:12
+ * Generated: 2025-06-12 19:40:10
+ * GFWList Last-Modified: 2025-06-12 09:12:58
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1241,6 +1241,7 @@ var rules = [
             "coursehero.com",
             "coze.com",
             "cpj.org",
+            "cpu-monkey.com",
             "cq99.us",
             "crackle.com",
             "crazypool.org",
@@ -2832,7 +2833,6 @@ var rules = [
             "huyandex.com",
             "hwadzan.tw",
             "hwayue.org.tw",
-            "hwinfo.com",
             "hxwk.org",
             "hxwq.org",
             "hybrid-analysis.com",
