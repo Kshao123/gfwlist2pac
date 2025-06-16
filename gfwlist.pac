@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-06-15 19:39:58
- * GFWList Last-Modified: 2025-06-15 02:04:31
+ * Generated: 2025-06-16 19:40:51
+ * GFWList Last-Modified: 2025-06-16 12:30:48
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3707,6 +3707,7 @@ var rules = [
             "onmypc.org",
             "onthehunt.com",
             "ontrac.com",
+            "oojj.de",
             "open.com.hk",
             "openai.com",
             "opendemocracy.net",
