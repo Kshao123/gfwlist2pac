@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-06-18 19:40:43
- * GFWList Last-Modified: 2025-06-17 13:43:35
+ * Generated: 2025-06-19 19:40:26
+ * GFWList Last-Modified: 2025-06-19 11:48:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1752,6 +1752,7 @@ var rules = [
             "fofg.org",
             "foolsmountain.com",
             "fooooo.com",
+            "forbes.com",
             "foreignaffairs.com",
             "foreignpolicy.com",
             "form.new",
