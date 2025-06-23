@@ -26,7 +26,7 @@
 ||lobehub.com
 ||gptnb.ai
 
-!||chat.ksh7.com
+||chat.ksh7.com
 
 !||clerk.chat.ksh7.com
 !||account.chat.ksh7.com
