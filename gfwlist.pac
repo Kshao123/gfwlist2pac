@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-07-02 19:40:44
- * GFWList Last-Modified: 2025-06-28 11:01:38
+ * Generated: 2025-07-03 19:40:18
+ * GFWList Last-Modified: 2025-07-03 13:23:19
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1354,6 +1354,7 @@ var rules = [
             "dongyangjing.com",
             "donmai.us",
             "dontfilter.us",
+            "doom9.org",
             "doosho.com",
             "doourbest.org",
             "dorjeshugden.com",
