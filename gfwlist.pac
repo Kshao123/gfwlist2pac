@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-07-08 19:41:16
- * GFWList Last-Modified: 2025-07-03 13:23:19
+ * Generated: 2025-07-09 19:41:51
+ * GFWList Last-Modified: 2025-07-09 03:20:57
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1436,6 +1436,7 @@ var rules = [
             "e-info.org.tw",
             "e-zone.com.hk",
             "e123.hk",
+            "e621.net",
             "earlytibet.com",
             "earthcam.com",
             "earthvpn.com",
