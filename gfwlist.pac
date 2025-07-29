@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-07-28 19:43:08
- * GFWList Last-Modified: 2025-07-27 05:22:39
+ * Generated: 2025-07-29 19:43:17
+ * GFWList Last-Modified: 2025-07-29 05:14:47
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5384,6 +5384,7 @@ var rules = [
             "wahas.com",
             "waikeung.org",
             "wainao.me",
+            "walletconnect.com",
             "wallmama.com",
             "wallpapercasa.com",
             "wallproxy.com",
