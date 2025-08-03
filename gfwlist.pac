@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-08-02 19:42:18
- * GFWList Last-Modified: 2025-07-29 05:14:47
+ * Generated: 2025-08-03 19:42:03
+ * GFWList Last-Modified: 2025-08-03 13:23:14
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5573,6 +5573,8 @@ var rules = [
             "wwitv.com",
             "www1.biz",
             "wwwhost.biz",
+            "wxw.cat",
+            "wxw.moe",
             "wzyboy.im",
             "x-art.com",
             "x-berry.com",
