@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-08-17 19:40:32
- * GFWList Last-Modified: 2025-08-16 07:55:26
+ * Generated: 2025-08-18 19:42:31
+ * GFWList Last-Modified: 2025-08-18 13:50:12
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1277,6 +1277,8 @@ var rules = [
             "delicious.com",
             "democrats.org",
             "demosisto.hk",
+            "deno.com",
+            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1873,6 +1875,7 @@ var rules = [
             "furbo.org",
             "furhhdl.org",
             "furinkan.com",
+            "furrybar.com",
             "futurechinaforum.org",
             "futuremessage.org",
             "fux.com",
@@ -3469,6 +3472,7 @@ var rules = [
             "nationsonline.org",
             "nationwide.com",
             "naughtyamerica.com",
+            "naver.com",
             "naver.jp",
             "navy.mil",
             "naweeklytimes.com",
