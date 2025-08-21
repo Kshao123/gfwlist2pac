@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-08-20 19:40:50
- * GFWList Last-Modified: 2025-08-20 15:24:34
+ * Generated: 2025-08-21 19:40:18
+ * GFWList Last-Modified: 2025-08-21 10:06:50
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2762,6 +2762,7 @@ var rules = [
             "itemdb.com",
             "itemfix.com",
             "ithome.com.tw",
+            "itiger.com",
             "itsaol.com",
             "itshidden.com",
             "itsky.it",
