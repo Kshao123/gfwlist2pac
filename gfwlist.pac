@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-08-21 19:40:18
- * GFWList Last-Modified: 2025-08-21 10:06:50
+ * Generated: 2025-08-22 19:40:14
+ * GFWList Last-Modified: 2025-08-22 02:53:57
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1138,6 +1138,7 @@ var rules = [
             "cotweet.com",
             "counter.social",
             "coursehero.com",
+            "covenantswatch.org.tw",
             "coze.com",
             "cpj.org",
             "cpu-monkey.com",
