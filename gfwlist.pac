@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-08-25 19:40:36
- * GFWList Last-Modified: 2025-08-23 08:36:20
+ * Generated: 2025-08-26 19:39:53
+ * GFWList Last-Modified: 2025-08-26 13:32:31
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1692,6 +1692,7 @@ var rules = [
             "fdc89.jp",
             "feedburner.com",
             "feeder.co",
+            "feedly.com",
             "feedx.net",
             "feelssh.com",
             "feer.com",
@@ -3332,6 +3333,7 @@ var rules = [
             "mog.com",
             "mohu.club",
             "mohu.rocks",
+            "moj.gov.tw",
             "mojim.com",
             "mol.gov.tw",
             "molihua.org",
