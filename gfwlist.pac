@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-09-22 19:39:56
- * GFWList Last-Modified: 2025-09-22 14:02:58
+ * Generated: 2025-09-23 19:39:34
+ * GFWList Last-Modified: 2025-09-23 02:23:14
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3690,6 +3690,7 @@ var rules = [
             "ocreampies.com",
             "ocry.com",
             "october-review.org",
+            "octocaptcha.com",
             "oculus.com",
             "oculuscdn.com",
             "odysee.com",
@@ -3808,6 +3809,7 @@ var rules = [
             "paljorpublications.com",
             "palmislife.com",
             "paltalk.com",
+            "palworldgame.com",
             "pancakeswap.finance",
             "pandafan.pub",
             "pandapow.co",
