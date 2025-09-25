@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-09-24 19:39:28
- * GFWList Last-Modified: 2025-09-24 01:26:08
+ * Generated: 2025-09-25 19:39:43
+ * GFWList Last-Modified: 2025-09-25 03:27:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5535,6 +5535,7 @@ var rules = [
             "wikimapia.org",
             "wikimedia.org",
             "wikinews.org",
+            "wikipedia.com",
             "wikipedia.org",
             "wikiquote.org",
             "wikisource.org",
