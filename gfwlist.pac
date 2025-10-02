@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-10-01 19:39:41
- * GFWList Last-Modified: 2025-09-25 03:27:54
+ * Generated: 2025-10-02 19:39:27
+ * GFWList Last-Modified: 2025-10-02 08:16:45
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4719,8 +4719,10 @@ var rules = [
             "tangren.us",
             "tanks.gg",
             "taoism.net",
+            "tap.io",
             "tapanwap.com",
             "tapatalk.com",
+            "taptap.io",
             "taragana.com",
             "tardigrade.io",
             "target.com",
