@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-10-02 19:39:27
- * GFWList Last-Modified: 2025-10-02 08:16:45
+ * Generated: 2025-10-03 19:39:17
+ * GFWList Last-Modified: 2025-10-03 08:02:40
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -246,6 +246,7 @@ var rules = [
             "91vps.club",
             "92ccav.com",
             "991.com",
+            "996.icu",
             "99btgc01.com",
             "99cn.info",
             "9bis.com",
