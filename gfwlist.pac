@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-10-10 19:39:34
- * GFWList Last-Modified: 2025-10-07 08:08:01
+ * Generated: 2025-10-11 19:39:01
+ * GFWList Last-Modified: 2025-10-11 13:12:35
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1809,6 +1809,8 @@ var rules = [
             "freedomsherald.org",
             "freeforums.org",
             "freegao.com",
+            "freegpt.es",
+            "freegpt.tech",
             "freehongkong.org",
             "freeilhamtohti.org",
             "freekazakhs.org",
