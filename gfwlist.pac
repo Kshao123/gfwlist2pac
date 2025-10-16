@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-10-15 19:39:59
- * GFWList Last-Modified: 2025-10-15 07:41:51
+ * Generated: 2025-10-16 19:39:55
+ * GFWList Last-Modified: 2025-10-16 10:15:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -783,7 +783,6 @@ var rules = [
             "btcbank.bank",
             "btctrade.im",
             "btdig.com",
-            "btdigg.org",
             "btguard.com",
             "btku.me",
             "btku.org",
@@ -5480,6 +5479,7 @@ var rules = [
             "webrtc.org",
             "webrush.net",
             "webs-tv.net",
+            "websdr.org",
             "website.new",
             "websitepulse.com",
             "websnapr.com",
@@ -5681,6 +5681,7 @@ var rules = [
             "xn--noss43i.com",
             "xn--oiq.cc",
             "xn--p8j9a0d9c9a.xn--q9jyb4c",
+            "xn--u2u927b.com",
             "xnpool.com",
             "xnxx.com",
             "xpdo.net",
