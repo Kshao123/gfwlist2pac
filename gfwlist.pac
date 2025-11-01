@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-10-31 19:40:01
- * GFWList Last-Modified: 2025-10-22 03:58:06
+ * Generated: 2025-11-01 19:39:39
+ * GFWList Last-Modified: 2025-11-01 03:13:17
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4777,6 +4777,7 @@ var rules = [
             "telesco.pe",
             "tellapart.com",
             "tellme.pw",
+            "temu.com",
             "tenacy.com",
             "tenor.com",
             "tensorflow.org",
