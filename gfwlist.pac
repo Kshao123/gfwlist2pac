@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-11-05 19:40:48
- * GFWList Last-Modified: 2025-11-01 03:13:17
+ * Generated: 2025-11-06 19:40:28
+ * GFWList Last-Modified: 2025-11-06 15:27:07
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1745,6 +1745,7 @@ var rules = [
             "flecheinthepeche.fr",
             "fleshbot.com",
             "fleursdeslettres.com",
+            "flexclip.com",
             "flexpool.io",
             "flgjustice.org",
             "flickr.com",
