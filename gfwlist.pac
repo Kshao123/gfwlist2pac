@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-11-06 19:40:28
- * GFWList Last-Modified: 2025-11-06 15:27:07
+ * Generated: 2025-11-07 19:40:00
+ * GFWList Last-Modified: 2025-11-07 08:22:11
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4015,6 +4015,7 @@ var rules = [
             "primevideo.com",
             "printfriendly.com",
             "prism-break.org",
+            "prismic.io",
             "prisoneralert.com",
             "pritunl.com",
             "privacybox.de",
