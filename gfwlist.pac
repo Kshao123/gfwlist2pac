@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-11-18 19:39:52
- * GFWList Last-Modified: 2025-11-18 15:18:01
+ * Generated: 2025-11-19 19:41:07
+ * GFWList Last-Modified: 2025-11-19 14:42:44
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1074,6 +1074,7 @@ var rules = [
             "cloudcone.com",
             "cloudflare-dns.com",
             "cloudflare-ipfs.com",
+            "cloudflarestatus.com",
             "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
@@ -3066,6 +3067,7 @@ var rules = [
             "liberal.org.hk",
             "libertysculpturepark.com",
             "libertytimes.com.tw",
+            "library-access.sk",
             "libredd.it",
             "lifemiles.com",
             "lighten.org.tw",
@@ -3292,6 +3294,7 @@ var rules = [
             "middle-way.net",
             "mihr.com",
             "mihua.org",
+            "mij.rip",
             "mikanani.me",
             "mikesoltys.com",
             "mikocon.com",
@@ -3336,6 +3339,7 @@ var rules = [
             "mixpod.com",
             "mixx.com",
             "mizzmona.com",
+            "mji.rip",
             "mjib.gov.tw",
             "mjj.rip",
             "mlc.ai",
@@ -5699,6 +5703,7 @@ var rules = [
             "xmovies.com",
             "xn--11xs86f.icu",
             "xn--4gq171p.com",
+            "xn--9iqy04a7fi01l.com",
             "xn--9pr62r24a.com",
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
