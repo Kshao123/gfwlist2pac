@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-11-19 19:41:07
- * GFWList Last-Modified: 2025-11-19 14:42:44
+ * Generated: 2025-11-20 19:40:34
+ * GFWList Last-Modified: 2025-11-20 05:56:59
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2330,6 +2330,7 @@ var rules = [
             "gravatar.com",
             "greasyfork.org",
             "greatfire.org",
+            "greatfirevpn.com",
             "greatfirewall.biz",
             "greatfirewallofchina.org",
             "greatroc.org",
@@ -5577,6 +5578,7 @@ var rules = [
             "wikipedia.org",
             "wikiquote.org",
             "wikisource.org",
+            "wikiunblocked.org",
             "wikiversity.org",
             "wikivoyage.org",
             "wikiwand.com",
