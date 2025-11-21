@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-11-20 19:40:34
- * GFWList Last-Modified: 2025-11-20 05:56:59
+ * Generated: 2025-11-21 19:40:09
+ * GFWList Last-Modified: 2025-11-21 13:26:14
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3168,7 +3168,6 @@ var rules = [
             "lzjscript.com",
             "lzmtnews.org",
             "m-sport.co.uk",
-            "m-team.cc",
             "m.me",
             "macgamestore.com",
             "macrovpn.com",
