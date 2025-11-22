@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-11-21 19:40:09
- * GFWList Last-Modified: 2025-11-21 13:26:14
+ * Generated: 2025-11-22 19:40:11
+ * GFWList Last-Modified: 2025-11-22 11:41:21
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3491,6 +3491,7 @@ var rules = [
             "nalandawest.org",
             "namgyal.org",
             "namgyalmonastery.org",
+            "namu.wiki",
             "nanopool.org",
             "nanyang.com",
             "nanyangpost.com",
@@ -3921,6 +3922,7 @@ var rules = [
             "picasaweb.com",
             "picgo.net",
             "picidae.net",
+            "picsart.com",
             "picturedip.com",
             "picturesocial.com",
             "picuki.com",
