@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-12-16 19:42:25
- * GFWList Last-Modified: 2025-12-13 05:57:16
+ * Generated: 2025-12-17 19:42:03
+ * GFWList Last-Modified: 2025-12-17 08:56:03
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -661,6 +661,7 @@ var rules = [
             "bit-z.com",
             "bit.do",
             "bit.ly",
+            "bitbaby.com",
             "bitbay.net",
             "bitchute.com",
             "bitcointalk.org",
@@ -2647,6 +2648,7 @@ var rules = [
             "iconpaper.org",
             "icu-project.org",
             "idaiwan.com",
+            "idcflare.com",
             "idemocracy.asia",
             "identi.ca",
             "idiomconnection.com",
