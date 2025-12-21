@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-12-20 19:39:47
- * GFWList Last-Modified: 2025-12-19 11:28:02
+ * Generated: 2025-12-21 19:40:15
+ * GFWList Last-Modified: 2025-12-21 02:05:16
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3972,6 +3972,7 @@ var rules = [
             "pmates.com",
             "po2b.com",
             "pobieramy.top",
+            "pocketcasts.com",
             "podbean.com",
             "podcast.co",
             "podictionary.com",
