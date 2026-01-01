@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2025-12-31 19:41:33
- * GFWList Last-Modified: 2025-12-27 13:31:55
+ * Generated: 2026-01-01 19:41:56
+ * GFWList Last-Modified: 2026-01-01 02:42:02
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3890,6 +3890,7 @@ var rules = [
             "pct.org.tw",
             "pdetails.com",
             "pdproxy.com",
+            "pdst.fm",
             "peace.ca",
             "peacefire.org",
             "peeasian.com",
@@ -5273,6 +5274,7 @@ var rules = [
             "unstable.icu",
             "unwire.hk",
             "uocn.org",
+            "up.audio",
             "upbit.com",
             "updatestar.com",
             "upghsbc.com",
