@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-01 19:41:56
- * GFWList Last-Modified: 2026-01-01 02:42:02
+ * Generated: 2026-01-02 19:41:20
+ * GFWList Last-Modified: 2026-01-02 09:38:24
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -93,7 +93,6 @@ var rules = [
             "nvri.gov.tw",
             "nyc.gov.tw",
             "penghu-nsa.gov.tw",
-            "pinterest.cn",
             "post.gov.tw",
             "qq.com",
             "sina.cn",
@@ -3942,6 +3941,23 @@ var rules = [
             "pinimg.com",
             "pinkrod.com",
             "pinoy-n.com",
+            "pinterest.at",
+            "pinterest.ca",
+            "pinterest.cl",
+            "pinterest.co.uk",
+            "pinterest.com",
+            "pinterest.com.au",
+            "pinterest.com.mx",
+            "pinterest.de",
+            "pinterest.es",
+            "pinterest.fr",
+            "pinterest.ie",
+            "pinterest.it",
+            "pinterest.jp",
+            "pinterest.nz",
+            "pinterest.ph",
+            "pinterest.pt",
+            "pinterest.se",
             "pipii.tv",
             "piraattilahti.org",
             "piring.com",
