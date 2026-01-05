@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-04 19:41:02
- * GFWList Last-Modified: 2026-01-02 09:38:24
+ * Generated: 2026-01-05 19:43:17
+ * GFWList Last-Modified: 2026-01-05 14:19:15
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -309,6 +309,7 @@ var rules = [
             "agoogleaday.com",
             "agro.hk",
             "ai.dev",
+            "ai.studio",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
@@ -1264,6 +1265,7 @@ var rules = [
             "dawangidc.com",
             "daxa.cn",
             "daylife.com",
+            "dazn.com",
             "db.tt",
             "dbgjd.com",
             "dcard.tw",
@@ -3775,6 +3777,8 @@ var rules = [
             "onthehunt.com",
             "ontrac.com",
             "oojj.de",
+            "ooni.io",
+            "ooni.org",
             "open.com.hk",
             "openai.com",
             "opendemocracy.net",
@@ -5699,6 +5703,7 @@ var rules = [
             "xbookcn.com",
             "xbtce.com",
             "xcafe.in",
+            "xcancel.com",
             "xcity.jp",
             "xcritic.com",
             "xerotica.com",
