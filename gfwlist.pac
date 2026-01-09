@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-08 19:42:29
- * GFWList Last-Modified: 2026-01-06 08:26:49
+ * Generated: 2026-01-09 19:42:39
+ * GFWList Last-Modified: 2026-01-09 09:21:08
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1032,6 +1032,7 @@ var rules = [
             "chromecast.com",
             "chromeexperiments.com",
             "chromestatus.com",
+            "chromium.org",
             "chuang-yen.org",
             "chubold.com",
             "chubun.com",
