@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-19 19:42:32
- * GFWList Last-Modified: 2026-01-17 09:28:54
+ * Generated: 2026-01-20 20:31:37
+ * GFWList Last-Modified: 2026-01-20 12:11:50
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5560,6 +5560,7 @@ var rules = [
             "wefightcensorship.org",
             "wefong.com",
             "weiboleak.com",
+            "weights.com",
             "weihuo.org",
             "weijingsheng.org",
             "weiming.info",
@@ -5841,6 +5842,7 @@ var rules = [
             "youdontcare.com",
             "youjizz.com",
             "youmaker.com",
+            "youmind.com",
             "youngpornvideos.com",
             "youngspiration.hk",
             "youpai.org",
