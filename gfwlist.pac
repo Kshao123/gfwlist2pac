@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-27 19:48:41
- * GFWList Last-Modified: 2026-01-20 12:11:50
+ * Generated: 2026-01-28 19:52:25
+ * GFWList Last-Modified: 2026-01-28 03:16:39
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1172,6 +1172,7 @@ var rules = [
             "creadersnet.com",
             "creativelab5.com",
             "cristyli.com",
+            "crixet.com",
             "crocotube.com",
             "crossfire.co.kr",
             "crossvpn.net",
