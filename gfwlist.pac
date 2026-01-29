@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-28 19:52:25
- * GFWList Last-Modified: 2026-01-28 03:16:39
+ * Generated: 2026-01-29 19:53:36
+ * GFWList Last-Modified: 2026-01-29 07:54:31
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1847,6 +1847,7 @@ var rules = [
             "freess.org",
             "freessh.us",
             "freetcp.com",
+            "freeterabox.com",
             "freetibet.net",
             "freetibet.org",
             "freetibetanheroes.org",
