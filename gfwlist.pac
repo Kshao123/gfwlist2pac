@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-29 19:53:36
- * GFWList Last-Modified: 2026-01-29 07:54:31
+ * Generated: 2026-01-30 19:54:17
+ * GFWList Last-Modified: 2026-01-30 12:58:01
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4471,6 +4471,7 @@ var rules = [
             "silkbook.com",
             "silvergatebank.com",
             "simbolostwitter.com",
+            "simianx.ai",
             "simplecd.me",
             "simplecd.org",
             "simpleproductivityblog.com",
@@ -5820,6 +5821,7 @@ var rules = [
             "yesasia.com.hk",
             "yespornplease.com",
             "yeyeclub.com",
+            "yfsp.tv",
             "ygto.com",
             "yhcw.net",
             "yibada.com",
