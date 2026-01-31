@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-01-30 19:54:17
- * GFWList Last-Modified: 2026-01-30 12:58:01
+ * Generated: 2026-01-31 19:44:08
+ * GFWList Last-Modified: 2026-01-31 07:10:25
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -828,6 +828,7 @@ var rules = [
             "bynet.co.il",
             "bypasscensorship.org",
             "byrut.org",
+            "byspotify.com",
             "c-est-simple.com",
             "c-span.org",
             "c-spanvideo.org",
@@ -3262,6 +3263,7 @@ var rules = [
             "mega.io",
             "mega.nz",
             "megalodon.jp",
+            "megaphone.fm",
             "megaproxy.com",
             "megurineluka.com",
             "meizhong.blog",
@@ -5098,6 +5100,7 @@ var rules = [
             "trendsmap.com",
             "trickip.net",
             "trimondi.de",
+            "tritondigital.com",
             "tronscan.org",
             "trouw.nl",
             "trt.net.tr",
