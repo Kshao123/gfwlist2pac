@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-02-03 20:00:26
- * GFWList Last-Modified: 2026-02-01 02:37:13
+ * Generated: 2026-02-04 20:00:29
+ * GFWList Last-Modified: 2026-02-04 09:09:47
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2560,6 +2560,7 @@ var rules = [
             "howtoforge.com",
             "hoxx.com",
             "hoy.tv",
+            "hoyolab.com",
             "hpa.gov.tw",
             "hpjav.com",
             "hqcdp.org",
@@ -3849,6 +3850,7 @@ var rules = [
             "page.link",
             "page.tl",
             "page2rss.com",
+            "pages.dev",
             "paimon.moe",
             "palacemoon.com",
             "paljorpublications.com",
@@ -4384,6 +4386,7 @@ var rules = [
             "seesmic.com",
             "seevpn.com",
             "seezone.net",
+            "sef.org.tw",
             "sehuatang.net",
             "sehuatang.org",
             "sejie.com",
