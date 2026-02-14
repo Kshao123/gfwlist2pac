@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-02-13 20:01:16
- * GFWList Last-Modified: 2026-02-13 12:49:26
+ * Generated: 2026-02-14 19:47:03
+ * GFWList Last-Modified: 2026-02-14 13:50:58
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3788,6 +3788,7 @@ var rules = [
             "wallmama.com",
             "wallpapercasa.com",
             "wallsttv.com",
+            "wallzhihu.com",
             "waltermartin.com",
             "waltermartin.org",
             "wan-press.org",
