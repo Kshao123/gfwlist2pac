@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-02-14 19:47:03
- * GFWList Last-Modified: 2026-02-14 13:50:58
+ * Generated: 2026-02-15 19:47:52
+ * GFWList Last-Modified: 2026-02-15 10:21:38
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1370,6 +1370,7 @@ var rules = [
             "glype.com",
             "gmail.com",
             "gmgard.com",
+            "gmgn.ai",
             "gmiddle.com",
             "gmiddle.net",
             "gmodules.com",
@@ -3162,6 +3163,7 @@ var rules = [
             "sowers.org.hk",
             "soylent.com",
             "soylentnews.org",
+            "spacex.com",
             "spankbang.com",
             "sparkpool.com",
             "spatial.io",
@@ -3785,6 +3787,7 @@ var rules = [
             "waffle1999.com",
             "wainao.me",
             "walletconnect.com",
+            "walletconnect.org",
             "wallmama.com",
             "wallpapercasa.com",
             "wallsttv.com",
