@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-02-20 19:55:20
- * GFWList Last-Modified: 2026-02-18 13:32:07
+ * Generated: 2026-02-21 19:47:46
+ * GFWList Last-Modified: 2026-02-21 07:04:51
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -181,6 +181,7 @@ var rules = [
             "akamaized.net",
             "akiba-online.com",
             "akiba-web.com",
+            "akile.io",
             "akinator.com",
             "akow.org",
             "alabout.com",
@@ -704,6 +705,7 @@ var rules = [
             "civitai.com",
             "cixiaoya.club",
             "ck101.com",
+            "clashverge.dev",
             "classicalguitarblog.net",
             "claude.ai",
             "clearsurance.com",
@@ -2237,6 +2239,7 @@ var rules = [
             "mediafreakcity.com",
             "mediawiki.org",
             "medium.com",
+            "meee.com.tw",
             "meetup.com",
             "mega.co.nz",
             "mega.io",
@@ -2519,6 +2522,7 @@ var rules = [
             "nuuvem.com",
             "nvdst.com",
             "nvtongzhisheng.org",
+            "nxtrace.org",
             "nyaa.eu",
             "nyaa.si",
             "nybooks.com",
@@ -2581,6 +2585,7 @@ var rules = [
             "ooni.io",
             "ooni.org",
             "openai.com",
+            "opencritic.com",
             "opendemocracy.net",
             "openid.net",
             "openleaks.org",
