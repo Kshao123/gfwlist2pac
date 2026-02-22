@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-02-21 19:47:46
- * GFWList Last-Modified: 2026-02-21 07:04:51
+ * Generated: 2026-02-22 19:47:27
+ * GFWList Last-Modified: 2026-02-22 11:11:24
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1001,6 +1001,7 @@ var rules = [
             "edx-cdn.org",
             "eesti.ee",
             "eevpn.com",
+            "eff.org",
             "efksoft.com",
             "efukt.com",
             "eic-av.com",
@@ -3612,6 +3613,7 @@ var rules = [
             "unholyknight.com",
             "unicode.org",
             "unirule.cloud",
+            "uniswap.org",
             "unknownspace.org",
             "unlock-music.dev",
             "unmineable.com",
