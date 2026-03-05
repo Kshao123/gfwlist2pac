@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-04 19:59:45
- * GFWList Last-Modified: 2026-03-04 08:04:06
+ * Generated: 2026-03-05 20:05:00
+ * GFWList Last-Modified: 2026-03-05 12:41:38
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -849,6 +849,7 @@ var rules = [
             "dalianmeng.org",
             "daliulian.org",
             "danke4china.net",
+            "dappcdn.com",
             "darmau.co",
             "darpa.mil",
             "darrenliuwei.com",
