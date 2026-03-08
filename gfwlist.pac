@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-07 19:45:13
- * GFWList Last-Modified: 2026-03-06 01:59:13
+ * Generated: 2026-03-08 19:46:16
+ * GFWList Last-Modified: 2026-03-08 10:15:05
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3052,6 +3052,7 @@ var rules = [
             "shenzhoufilm.com",
             "shenzhouzhengdao.org",
             "shiksha.com",
+            "shitjournal.org",
             "shixiao.org",
             "shizhao.org",
             "shodanhq.com",
