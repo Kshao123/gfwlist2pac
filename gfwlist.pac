@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-13 19:56:49
- * GFWList Last-Modified: 2026-03-08 10:15:05
+ * Generated: 2026-03-14 19:49:10
+ * GFWList Last-Modified: 2026-03-14 13:06:19
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3936,6 +3936,7 @@ var rules = [
             "xcafe.in",
             "xcancel.com",
             "xcity.jp",
+            "xdaforums.com",
             "xerotica.com",
             "xfinity.com",
             "xfxssr.me",
