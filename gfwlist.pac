@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-17 20:03:24
- * GFWList Last-Modified: 2026-03-14 13:06:19
+ * Generated: 2026-03-18 20:00:17
+ * GFWList Last-Modified: 2026-03-18 08:25:59
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -125,6 +125,7 @@ var rules = [
             "9news.com.au",
             "a-normal-day.com",
             "aamacau.com",
+            "aave.com",
             "abc.net.au",
             "abc.xyz",
             "abebooks.co.uk",
