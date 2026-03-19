@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-18 20:00:17
- * GFWList Last-Modified: 2026-03-18 08:25:59
+ * Generated: 2026-03-19 20:01:31
+ * GFWList Last-Modified: 2026-03-19 05:49:29
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2565,8 +2565,10 @@ var rules = [
             "ohmyrss.com",
             "ok.ru",
             "okayfreedom.com",
+            "okcoin.com",
             "okex.com",
             "okk.tw",
+            "oklink.com",
             "okpool.me",
             "okx.com",
             "olehdtv.com",
