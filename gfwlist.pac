@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-19 20:01:31
- * GFWList Last-Modified: 2026-03-19 05:49:29
+ * Generated: 2026-03-20 19:57:52
+ * GFWList Last-Modified: 2026-03-20 09:23:10
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -694,6 +694,7 @@ var rules = [
             "chromestatus.com",
             "chromium.org",
             "ci-en.jp",
+            "cia.gov",
             "cici.com",
             "ciciai.com",
             "cirosantilli.com",
