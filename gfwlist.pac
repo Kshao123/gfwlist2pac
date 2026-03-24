@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-23 20:03:37
- * GFWList Last-Modified: 2026-03-23 04:40:29
+ * Generated: 2026-03-24 20:03:19
+ * GFWList Last-Modified: 2026-03-24 04:45:53
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3962,6 +3962,7 @@ var rules = [
             "xm.com",
             "xml-training-guide.com",
             "xn--11xs86f.icu",
+            "xn--1jqvh729avzfcy2d8ummib.com",
             "xn--4gq171p.com",
             "xn--9iqy04a7fi01l.com",
             "xn--9pr62r24a.com",
