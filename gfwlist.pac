@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-03-25 20:02:45
- * GFWList Last-Modified: 2026-03-24 04:45:53
+ * Generated: 2026-03-26 20:01:27
+ * GFWList Last-Modified: 2026-03-26 04:54:28
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3968,6 +3968,7 @@ var rules = [
             "xn--9pr62r24a.com",
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
+            "xn--kcrv3utim32hx9f6qe.com",
             "xn--ngstr-lra8j.com",
             "xn--noss43i.com",
             "xn--oiq.cc",
