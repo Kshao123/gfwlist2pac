@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-04-02 20:02:54
- * GFWList Last-Modified: 2026-03-27 14:17:40
+ * Generated: 2026-04-03 20:01:15
+ * GFWList Last-Modified: 2026-04-03 14:25:42
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2615,6 +2615,7 @@ var rules = [
             "orientaldaily.com.my",
             "orn.jp",
             "osfoora.com",
+            "osmand.net",
             "otcbtc.com",
             "otto.de",
             "ourdearamy.com",
