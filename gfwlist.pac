@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-04-10 20:02:40
- * GFWList Last-Modified: 2026-04-09 11:10:05
+ * Generated: 2026-04-11 19:56:54
+ * GFWList Last-Modified: 2026-04-11 13:49:59
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3634,6 +3634,7 @@ var rules = [
             "unmineable.com",
             "unseen.is",
             "unstable.icu",
+            "unun.dev",
             "unwire.hk",
             "uocn.org",
             "up.audio",
