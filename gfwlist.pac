@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-04-23 20:32:50
- * GFWList Last-Modified: 2026-04-22 12:34:44
+ * Generated: 2026-04-24 20:09:31
+ * GFWList Last-Modified: 2026-04-24 07:27:37
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3305,6 +3305,7 @@ var rules = [
             "tbssqh.org",
             "tdesktop.com",
             "teachparentstech.org",
+            "techbang.com",
             "technews.tw",
             "techviz.net",
             "teck.in",
