@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-05-01 20:28:11
- * GFWList Last-Modified: 2026-04-28 14:37:01
+ * Generated: 2026-05-02 20:05:39
+ * GFWList Last-Modified: 2026-05-02 11:49:50
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3131,6 +3131,7 @@ var rules = [
             "sockslist.net",
             "socrec.org",
             "softether-download.com",
+            "softether.co.jp",
             "softether.org",
             "softfamous.com",
             "softlayer.net",
