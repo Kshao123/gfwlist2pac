@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-05-02 20:05:39
- * GFWList Last-Modified: 2026-05-02 11:49:50
+ * Generated: 2026-05-03 20:06:54
+ * GFWList Last-Modified: 2026-05-03 14:24:19
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3780,7 +3780,6 @@ var rules = [
             "vrsmash.com",
             "vtunnel.com",
             "vultryhw.com",
-            "vzw.com",
             "w-pool.com",
             "w3s.link",
             "waffle1999.com",
