@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-05-06 20:53:31
- * GFWList Last-Modified: 2026-05-06 04:13:48
+ * Generated: 2026-05-07 20:48:26
+ * GFWList Last-Modified: 2026-05-07 10:57:30
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2626,6 +2626,7 @@ var rules = [
             "openid.net",
             "openleaks.org",
             "opensea.io",
+            "openstreetmap.fr",
             "openstreetmap.org",
             "opentech.fund",
             "openvpn.net",
