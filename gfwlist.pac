@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-05-12 21:04:48
- * GFWList Last-Modified: 2026-05-10 12:33:54
+ * Generated: 2026-05-13 21:08:25
+ * GFWList Last-Modified: 2026-05-13 10:51:27
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -686,6 +686,7 @@ var rules = [
             "chingcheong.com",
             "chinman.net",
             "chobit.cc",
+            "chonglangtv.org",
             "chosun.com",
             "chrdnet.com",
             "christianfreedom.org",
