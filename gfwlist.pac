@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-06-17 21:29:52
- * GFWList Last-Modified: 2026-06-17 14:04:05
+ * Generated: 2026-06-18 21:33:51
+ * GFWList Last-Modified: 2026-06-18 15:35:10
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -135,6 +135,7 @@ var rules = [
             "about.me",
             "abplive.com",
             "acast.com",
+            "accountboy.com",
             "accountkit.com",
             "acevpn.com",
             "acg.mn",
@@ -2391,6 +2392,7 @@ var rules = [
             "monocloud.me",
             "monster.com",
             "moodyz.com",
+            "moomoo.com",
             "moon.fm",
             "moonbbs.com",
             "moonbingo.com",
@@ -4029,6 +4031,7 @@ var rules = [
             "xn--oiq.cc",
             "xn--p8j9a0d9c9a.xn--q9jyb4c",
             "xn--u2u927b.com",
+            "xn--vuqv2cf7wzyig79c.com",
             "xnpool.com",
             "xnxx.com",
             "xpud.org",
