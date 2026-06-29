@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-06-28 20:42:16
- * GFWList Last-Modified: 2026-06-27 13:02:45
+ * Generated: 2026-06-29 21:09:45
+ * GFWList Last-Modified: 2026-06-29 04:16:24
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1102,6 +1102,7 @@ var rules = [
             "expekt.com",
             "exploader.net",
             "expofutures.com",
+            "expressnews.com",
             "expressvpn.com",
             "exrates.me",
             "extmatrix.com",
