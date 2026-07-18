@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-07-17 20:28:13
- * GFWList Last-Modified: 2026-07-15 09:23:58
+ * Generated: 2026-07-18 20:22:15
+ * GFWList Last-Modified: 2026-07-18 01:04:10
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -62,6 +62,7 @@ var rules = [
             "173ng.com",
             "18board.com",
             "18comic.org",
+            "18comic.vip",
             "18mh.net",
             "1984.city",
             "1984bbs.com",
