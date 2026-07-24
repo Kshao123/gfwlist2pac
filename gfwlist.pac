@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-07-23 20:37:21
- * GFWList Last-Modified: 2026-07-22 09:25:55
+ * Generated: 2026-07-24 20:47:07
+ * GFWList Last-Modified: 2026-07-24 04:52:38
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -713,6 +713,7 @@ var rules = [
             "cia.gov",
             "cici.com",
             "ciciai.com",
+            "circle19.org",
             "cirosantilli.com",
             "citizencn.com",
             "citizenlab.ca",
@@ -2112,6 +2113,7 @@ var rules = [
             "kantie.org",
             "kaotic.com",
             "karayou.com",
+            "kards.com",
             "kathmandupost.com",
             "kawaiikawaii.jp",
             "kawase.com",
