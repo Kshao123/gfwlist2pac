@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-07-29 20:31:42
- * GFWList Last-Modified: 2026-07-27 03:36:40
+ * Generated: 2026-07-30 20:43:36
+ * GFWList Last-Modified: 2026-07-30 07:56:33
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2197,6 +2197,7 @@ var rules = [
             "leonardo.ai",
             "lesoir.be",
             "letscorp.net",
+            "level-plus.net",
             "lexica.art",
             "lhakar.org",
             "li.taipei",
@@ -3817,6 +3818,7 @@ var rules = [
             "uyghurstudies.org",
             "uyghurtribunal.com",
             "uymaarip.com",
+            "v.recipes",
             "v2.help",
             "v2ex.com",
             "v2fly.org",
