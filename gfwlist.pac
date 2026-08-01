@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-07-31 20:47:47
- * GFWList Last-Modified: 2026-07-30 07:56:33
+ * Generated: 2026-08-01 20:27:43
+ * GFWList Last-Modified: 2026-08-01 03:31:51
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2624,6 +2624,7 @@ var rules = [
             "ntdtv.com",
             "ntdtv.com.tw",
             "ntdtv.cz",
+            "nthlink.com",
             "ntu.edu.tw",
             "nu.nl",
             "nuexpo.com",
