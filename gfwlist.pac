@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-08-08 19:56:04
- * GFWList Last-Modified: 2026-08-06 08:35:22
+ * Generated: 2026-08-09 19:59:17
+ * GFWList Last-Modified: 2026-08-09 12:59:49
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -173,6 +173,7 @@ var rules = [
             "agro.hk",
             "ai.dev",
             "ai.studio",
+            "aihub.top",
             "aiosearch.com",
             "aiph.net",
             "airconsole.com",
@@ -284,6 +285,7 @@ var rules = [
             "appspot.com",
             "appsto.re",
             "aptoide.com",
+            "arcgis.com",
             "archive-it.org",
             "archive.fo",
             "archive.is",
@@ -3031,6 +3033,7 @@ var rules = [
             "redditspace.com",
             "redditstatic.com",
             "redhotlabs.com",
+            "redteago.com",
             "referer.us",
             "reflectivecode.com",
             "reimu.net",
