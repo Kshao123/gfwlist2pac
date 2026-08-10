@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-08-09 19:59:17
- * GFWList Last-Modified: 2026-08-09 12:59:49
+ * Generated: 2026-08-10 20:09:24
+ * GFWList Last-Modified: 2026-08-10 15:55:25
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -934,6 +934,7 @@ var rules = [
             "disp.cc",
             "disqus.com",
             "dit-inc.us",
+            "divdyn.com",
             "diyin.org",
             "dizhuzhishang.com",
             "dl-laby.jp",
