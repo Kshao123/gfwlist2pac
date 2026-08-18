@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-08-17 19:52:31
- * GFWList Last-Modified: 2026-08-17 08:21:55
+ * Generated: 2026-08-18 19:50:17
+ * GFWList Last-Modified: 2026-08-18 11:57:04
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4023,6 +4023,7 @@ var rules = [
             "willw.net",
             "wilsoncenter.org",
             "windscribe.com",
+            "windy.com",
             "wingamestore.com",
             "wingy.site",
             "wionews.com",
