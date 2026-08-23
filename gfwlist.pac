@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-08-22 19:48:03
- * GFWList Last-Modified: 2026-08-22 06:17:41
+ * Generated: 2026-08-23 19:47:51
+ * GFWList Last-Modified: 2026-08-23 06:47:59
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3190,6 +3190,7 @@ var rules = [
             "shooshtime.com",
             "shopee.tw",
             "showwe.tw",
+            "shuaiapi.com",
             "shutterstock.com",
             "shwchurch.org",
             "shwchurch3.com",
@@ -4093,6 +4094,7 @@ var rules = [
             "x.com",
             "x.company",
             "x3guide.com",
+            "x86.fr",
             "xbabe.com",
             "xbookcn.com",
             "xbtce.com",
