@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-09-04 21:43:46
- * GFWList Last-Modified: 2026-09-04 10:44:38
+ * Generated: 2026-09-05 21:36:18
+ * GFWList Last-Modified: 2026-09-05 05:29:19
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -53,6 +53,8 @@ var rules = [
             "10beasts.net",
             "10musume.com",
             "111666.best",
+            "123av.com",
+            "123av.me",
             "12bet.com",
             "12vpn.com",
             "12vpn.net",
@@ -1784,6 +1786,7 @@ var rules = [
             "helpeachpeople.com",
             "helpster.de",
             "hembed.com",
+            "hentai.tv",
             "heqinglian.net",
             "here.com",
             "heritage.org",
@@ -3073,6 +3076,7 @@ var rules = [
             "rmbl.ws",
             "roblox.com",
             "robustnessiskey.com",
+            "roc-taiwan.org",
             "rocket-inc.net",
             "rocket.chat",
             "rocksdb.org",
@@ -3082,6 +3086,7 @@ var rules = [
             "rolsociety.org",
             "ronjoneswriter.com",
             "rou.video",
+            "roushuwo.com",
             "rsdlmonitor.com",
             "rsf-chinese.org",
             "rsf.org",
@@ -3377,6 +3382,7 @@ var rules = [
             "superpages.com",
             "supervpn.net",
             "superzooi.com",
+            "supjav.com",
             "supremecourt.gov",
             "suprememastertv.com",
             "surfeasy.com",
@@ -3407,10 +3413,12 @@ var rules = [
             "tablesgenerator.com",
             "taedp.org.tw",
             "tagwalk.com",
+            "taiav.com",
             "tails.net",
             "taipeisociety.org",
             "taipeitimes.com",
             "taisounds.com",
+            "taiwanembassy.org",
             "taiwanhot.net",
             "taiwanjustice.net",
             "taiwanncf.org.tw",
@@ -4083,6 +4091,7 @@ var rules = [
             "writesonic.com",
             "wsj.com",
             "wsj.net",
+            "wtfpass.com",
             "wufafangwen.com",
             "wufi.org.tw",
             "wujieliulan.com",
