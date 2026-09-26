@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-09-25 22:42:52
- * GFWList Last-Modified: 2026-09-21 12:27:46
+ * Generated: 2026-09-26 22:08:44
+ * GFWList Last-Modified: 2026-09-26 12:29:53
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1456,6 +1456,7 @@ var rules = [
             "gmx.net",
             "gnci.org.hk",
             "gnews.org",
+            "go-mpulse.net",
             "go-to-zlibrary.se",
             "go141.com",
             "go5.dev",
@@ -2982,6 +2983,7 @@ var rules = [
             "qianmo.tw",
             "qiwen.lu",
             "qmp4.com",
+            "qobuz.com",
             "qoos.com",
             "qq.co.za",
             "qstatus.com",
@@ -3854,6 +3856,7 @@ var rules = [
             "vansky.com",
             "vaticannews.va",
             "vatn.org",
+            "vava8.com",
             "vcf-online.org",
             "vcfbuilder.org",
             "veed.io",
