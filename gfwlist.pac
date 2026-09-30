@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-09-29 23:08:10
- * GFWList Last-Modified: 2026-09-26 12:29:53
+ * Generated: 2026-09-30 23:09:40
+ * GFWList Last-Modified: 2026-09-30 11:59:41
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1342,6 +1342,7 @@ var rules = [
             "futustatic.com",
             "fututrade.com",
             "fututrustee.com",
+            "fuyin116.com",
             "fw.cm",
             "fxcm-chinese.com",
             "fxnetworks.com",
@@ -2500,6 +2501,7 @@ var rules = [
             "mubi.com",
             "mullvad.net",
             "multiply.com",
+            "muse.ai",
             "musixmatch.com",
             "muzi.com",
             "muzi.net",
