@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-10-01 23:22:54
- * GFWList Last-Modified: 2026-10-01 02:10:03
+ * Generated: 2026-10-02 23:11:40
+ * GFWList Last-Modified: 2026-10-02 13:31:18
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3125,6 +3125,7 @@ var rules = [
             "safechat.com",
             "safeguarddefenders.com",
             "safervpn.com",
+            "sagernet.org",
             "saintyculture.com",
             "sakuralive.com",
             "salvation.org.hk",
