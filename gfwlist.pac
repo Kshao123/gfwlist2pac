@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-10-22 22:39:28
- * GFWList Last-Modified: 2026-10-17 14:35:56
+ * Generated: 2026-10-23 22:32:48
+ * GFWList Last-Modified: 2026-10-23 10:29:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2122,6 +2122,7 @@ var rules = [
             "jqueryui.com",
             "jsdelivr.net",
             "jshell.net",
+            "jspm.io",
             "jtvnw.net",
             "jukujo-club.com",
             "juliepost.com",
@@ -3805,6 +3806,7 @@ var rules = [
             "tycool.com",
             "typekit.net",
             "typepad.com",
+            "typesafe.ai",
             "typeset.io",
             "typora.io",
             "u15.info",
