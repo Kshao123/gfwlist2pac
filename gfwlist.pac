@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-10-29 23:31:16
- * GFWList Last-Modified: 2026-10-24 15:33:57
+ * Generated: 2026-10-30 23:07:10
+ * GFWList Last-Modified: 2026-10-30 05:24:27
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -337,6 +337,7 @@ var rules = [
             "atlanta168.com",
             "atnext.com",
             "audacy.com",
+            "auth0.com",
             "autodraw.com",
             "av.movie",
             "av01.tv",
@@ -529,6 +530,7 @@ var rules = [
             "brookings.edu",
             "brutaltgp.com",
             "bsky.app",
+            "bsky.chat",
             "bsky.network",
             "bsky.social",
             "bt4g.org",
@@ -744,7 +746,10 @@ var rules = [
             "clashyun.com",
             "classicalguitarblog.net",
             "claude.ai",
+            "claude.app",
             "claude.com",
+            "claudemcpcontent.com",
+            "claudeusercontent.com",
             "clearsurance.com",
             "clementine-player.org",
             "clinica-tibet.ru",
