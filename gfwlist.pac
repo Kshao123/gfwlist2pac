@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/Kshao123/gfwlist2pac
- * Generated: 2026-11-27 02:21:13
- * GFWList Last-Modified: 2026-11-20 16:10:15
+ * Generated: 2026-11-28 02:06:37
+ * GFWList Last-Modified: 2026-11-27 10:49:03
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -178,6 +178,7 @@ var rules = [
             "agro.hk",
             "ai.dev",
             "ai.studio",
+            "aicu.cc",
             "aidc.com.tw",
             "aihub.top",
             "aiosearch.com",
@@ -900,6 +901,7 @@ var rules = [
             "dalianmeng.org",
             "daliulian.org",
             "danke4china.net",
+            "danmakus.com",
             "dappcdn.com",
             "darmau.co",
             "darpa.mil",
@@ -3375,6 +3377,7 @@ var rules = [
             "southnews.com.tw",
             "sowers.org.hk",
             "soylent.com",
+            "spacedesk.net",
             "spaceforce.mil",
             "spacex.com",
             "spankbang.com",
